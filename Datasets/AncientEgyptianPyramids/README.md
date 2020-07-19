@@ -20,19 +20,19 @@ The screenshots below are meant for clarification to ease the understanding of t
 
 ### AncientEgyptianPyramidsWhole
 
-![AncientEgyptianPyramidsWhole](./AncientEgyptianPyramids/AncientEgyptianPyramidsWhole.png)
+![AncientEgyptianPyramidsWhole](./AncientEgyptianPyramidsWhole.png)
 
 ### AncientEgyptianPyramidsJigsawed
 
-# ![AncientEgyptianPyramidsJigsawed](./AncientEgyptianPyramids/AncientEgyptianPyramidsJigsawed.png)
+# ![AncientEgyptianPyramidsJigsawed](./AncientEgyptianPyramidsJigsawed.png)
 
 ### AncientEgyptianPyramidsNumbered
 
-# ![AncientEgyptianPyramidsNumbered](./AncientEgyptianPyramids/AncientEgyptianPyramidsNumbered.jpg)
+# ![AncientEgyptianPyramidsNumbered](./AncientEgyptianPyramidsNumbered.jpg)
 
 ### AncientEgyptianPyramidsRegions
 
-# ![AncientEgyptianPyramidsRegions](./AncientEgyptianPyramids/AncientEgyptianPyramidsRegions.jpg)
+# ![AncientEgyptianPyramidsRegions](./AncientEgyptianPyramidsRegions.jpg)
 
 
 ## Sources
